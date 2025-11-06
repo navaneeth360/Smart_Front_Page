@@ -1,0 +1,45 @@
+{
+  "images": [
+    {
+      "index": 0,
+      "file": "Course.png",
+      "x": 145,
+      "y": 610,
+      "width": 516,
+      "height": 633
+    },
+    {
+      "index": 1,
+      "file": "Marks.png",
+      "x": 1668,
+      "y": 616,
+      "width": 593,
+      "height": 663
+    },
+    {
+      "index": 2,
+      "file": "name.png",
+      "x": 156,
+      "y": 435,
+      "width": 1823,
+      "height": 133
+    },
+    {
+      "index": 3,
+      "file": "QR.png",
+      "x": 2015,
+      "y": 60,
+      "width": 423,
+      "height": 473
+    },
+    {
+      "index": 5,
+      "file": "roll_no.png",
+      "x": 790,
+      "y": 613,
+      "width": 653,
+      "height": 643
+    }
+  ],
+  "texts": []
+}
